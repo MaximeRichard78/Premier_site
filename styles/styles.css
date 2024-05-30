@@ -1,0 +1,21 @@
+  .commentaries{
+    background-color: lightgrey; /*L'arrière-plan sera de couleur gris clair.*/
+  }
+  
+  .Date {
+    color: darkblue;  /*la couleur de texte sera bleu foncé.*/
+  }
+
+  .Author {
+    color: blue;  /*la couleur de texte sera bleu.*/
+  }
+  .photo {
+    width: 3%;  /*La largeur sera de 3% de la largeur de leur conteneur.*/
+    height: auto; /*La hauteur s'ajustera automatiquement en fonction du rapport largeur/hauteur de l'image.*/
+  }
+
+  .next-photo {
+    width: 3%;  /*La largeur sera de 3% de la largeur de leur conteneur.*/
+    height: auto; /*La hauteur s'ajustera automatiquement en fonction du rapport largeur/hauteur de l'image.*/
+    margin-left: 10px;  /* Espacement entre les images */
+  }
